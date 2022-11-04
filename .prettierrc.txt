@@ -1,0 +1,12 @@
+{
+    "sigleQuote": true, //문자열을 사용할 때는 '를 사용한다
+    "semi": true, //코드는 ;로 끝나야 한다
+    "usetabs": false, //탭 대신 스페이스를 사용
+    
+    "tabWidth":2, 들여쓰기는 2칸
+    "trailingComma": "all",
+    //객체나 배열을 작성할 때 원소 혹은 
+            key-value의 맨 뒤에있는 것에도 쉼표를 붙인다
+    "printWidth":80 //한 줄이 80칸이 넘지 않도록 한다.
+}
+
