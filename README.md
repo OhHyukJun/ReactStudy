@@ -11,5 +11,6 @@
 - 많은 데이터 사용을 위한 최적화
   - useState를 사용한 방법과 useReducer를 사용하는 두 가지 방법 실습
   - raect-virtualized를 사용한 최적화 실습
+  ![image](https://user-images.githubusercontent.com/90260242/200115427-223ec05f-b039-45e7-9b43-e91f46a25b83.png)
 ## 추가하고 싶은 내용
 -  달력 기능을 추가한 일정 관리 기능 구현하기
