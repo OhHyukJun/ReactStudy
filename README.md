@@ -1,6 +1,7 @@
 # TodoList 만들기
 
 ## 결과물
+- src-components 폴더 안에 대부분의 기능을 구현
 
 ![image](https://user-images.githubusercontent.com/90260242/199906878-42ecfc11-74ff-43b1-9051-b75bd578a4c6.png)
 
